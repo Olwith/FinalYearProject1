@@ -1,5 +1,6 @@
 streamlit
 pymysql
 folium
+streamlit_folium
 requests
 streamlit-js-eval
